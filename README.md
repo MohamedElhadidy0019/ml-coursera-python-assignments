@@ -1,6 +1,6 @@
 # [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) 
 # Python Programming Assignments
-# 100/100 SOLVED BY MohamedElhadidy0019
+# SOLVED BY MohamedElhadidy0019
 
 ![](machinelearning.jpg)
 
